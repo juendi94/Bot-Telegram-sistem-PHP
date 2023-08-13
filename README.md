@@ -38,7 +38,7 @@ Edit file `config.php` untuk mengkonfigurasi pengaturan bot dan menyesuaikan pes
 2. Buka file `deleteWebhook.php`.
 3. Ganti `YOUR_BOT_API_TOKEN` dengan token API bot Telegram Anda.
 4. **Jalankan deleteWebhook:** Untuk mencabut akses webhook, akses atau jalankan URL `https://your-domain.com/path/to/deleteWebhook.php` melalui peramban web Anda.
-5. 
+
 ## Kontribusi
 
 Kontribusi terhadap proyek sumber terbuka ini sangat disambut! Silakan fork repositori, lakukan perubahan, dan kirimkan permintaan pull. Tolong jangan menjual kode ini atau menggunakannya untuk tujuan komersial.
