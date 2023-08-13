@@ -28,6 +28,7 @@ Edit file `config.php` untuk mengkonfigurasi pengaturan bot dan menyesuaikan pes
 ## setWebhook.php
 
 Gunakan file ini untuk mengonfigurasi webhook untuk bot Anda. Tetapkan URL endpoint tempat Telegram akan mengirimkan pembaruan. Jalankan skrip ini dengan mengunjungi URL di peramban web Anda.
+Setelah Selesai memasukkan token bot di config.php dan setWebhook.php jalankan webhooknya dengan cara akses atau jalankan url setWebhook.php
 
 ## Kontribusi
 
