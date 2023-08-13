@@ -1,6 +1,6 @@
 <?php
 $botToken = 'Isi_dengan_token_bot_telegramMu';
-$webhookUrl = 'https://antanet.000webhostapp.com/telegram/antapay/antapay.php';
+$webhookUrl = 'https://linkmu.com/config.php';
 
 $apiUrl = "https://api.telegram.org/bot{$botToken}/setWebhook?url={$webhookUrl}";
 
